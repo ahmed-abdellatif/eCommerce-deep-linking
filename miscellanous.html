@@ -1,0 +1,31 @@
+/*
+TODO: When checkout is successful and leads to this page, we will need to send the user a confirmation email, with the (latest) purchases just made. we need to select all the latest records of orders from
+orders table
+*/
+
+
+
+//this grabs the session for the current user who just made a purchase
+
+
+//Lets create a query to gather the latest order information from this users session
+// and allocate that data inside of a variable called $orderConfirmation
+/**$orderConfirmation = $mysqli->query("SELECT orderUpdate.id,
+                                            orderUpdate.date,
+                                            orderUpdate.product_code,
+                                            orderUpdate.product_name,
+                                            orderUpdate.price,
+                                            orderUpdate.units,
+                                            orderUpdate.total,
+                                     FROM orders orderUpdate where email='".$user."'",
+                                     JOIN (
+                                        SELECT "username", max(date) as LatestDate
+                                        FROM orders
+                                        group by username
+                                       ) tm on orderUpdate.username = tm.username and orderUpdate.date = tm.LatestDate");
+
+
+
+*/
+
+?>

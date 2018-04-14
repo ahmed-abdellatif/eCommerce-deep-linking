@@ -1,0 +1,9 @@
+.site-logo>img{
+	max-width:200px;
+
+}
+
+.site-logo.logo-sm > img {
+    max-width: 175px;
+
+}
