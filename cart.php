@@ -28,7 +28,7 @@ include 'config.php';
   <title>Mobile Shop | iPhone, Samsung, LG | Columbia SC
   </title>
   <!-- SEO Meta Tags-->
-  <meta name="description" content="Mobile Store in Columbia, South Carolina. We sell phones, cases, accessories, and much more.">
+  <meta name="description" content="Mobile Store. We sell phones, cases, accessories, and much more.">
   <meta name="keywords" content="shop, e-commerce, modern, flat style, responsive, online store, business, mobile, blog, bootstrap 4, html5, css3, jquery, js, gallery, slider, touch, creative, clean">
   <meta name="author" content="almandine design">
   <!-- Mobile Specific Meta Tag-->
@@ -513,7 +513,6 @@ Footer
           <p class="text-white"></p>
           <p class="text-white"></p>
           <p class="text-white"></p>
-          <h2 class="text-white">Open on Demand:</h2>
         </section>
       </div>
       <div class="col-lg-3 col-md-6">

@@ -29,7 +29,7 @@ require '../../config.php';
 <head>
   <meta charset="utf-8">
   <title></title>
-  <meta name="description" content="Mobile Store in Columbia, South Carolina. We sell phones, cases, accessories, and much more.">
+  <meta name="description" content=" We sell phones, cases, accessories, and much more.">
   <meta name="keywords" content="Ahmed Abdellatif, Web Developer, eCommerce Developer, Shopify, Web Design, Website Design, Website, Online Business, Business, Online Store">
   <meta name="author" content="Ahmed Abdellatif">
 

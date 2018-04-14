@@ -20,7 +20,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
   <title>Mobile Shop | iPhone, Samsung, LG | Columbia SC
   </title>
   <!-- SEO Meta Tags-->
-  <meta name="description" content="Mobile Store in Columbia, South Carolina. We sell phones, cases, accessories, and much more.">
+  <meta name="description" content="We sell phones, cases, accessories, and much more.">
   <meta name="keywords" content="Ahmed Abdellatif, Web Developer, eCommerce Developer, Shopify, Web Design, Website Design, Website, Online Business, Business, Online Store">
   <meta name="author" content="Ahmed Abdellatif">
 

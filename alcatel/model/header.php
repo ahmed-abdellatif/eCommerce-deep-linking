@@ -27,10 +27,10 @@ if (session_id() == '' || !isset($_SESSION)) {session_start();}
 
 <head>
   <meta charset="utf-8">
-  <title>Mobile Shop | iPhone, Samsung, LG | Columbia SC
+  <title>
   </title>
   <!-- SEO Meta Tags-->
-  <meta name="description" content="Mobile Store in Columbia, South Carolina. We sell phones, cases, accessories, and much more.">
+  <meta name="description" content="Mobile Store in, . We sell phones, cases, accessories, and much more.">
   <meta name="keywords" content="Ahmed Abdellatif, Web Developer, eCommerce Developer, Shopify, Web Design, Website Design, Website, Online Business, Business, Online Store">
   <meta name="author" content="Ahmed Abdellatif">
 
@@ -93,7 +93,7 @@ if (session_id() == '' || !isset($_SESSION)) {session_start();}
 -->
     <div class="offcanvas-container" id="shop-categories">
       <div class="offcanvas-header">
-        <a class="site-logo" href="../../index.php"><img src="../../assets/img/logo/logo.png" alt="AA Mobile Accessories Columbia South Carolina" style="position:relative; bottom:-1em; margin:0 auto;"></a>
+        <a class="site-logo" href="../../index.php"><img src="../../assets/img/logo/logo.png" alt="AA Mobile Accessories South Carolina" style="position:relative; bottom:-1em; margin:0 auto;"></a>
 
       </div>
       <!--Break off canvas menu-->
@@ -218,7 +218,7 @@ if (isset($_SESSION['username'])) {
               <!-- Off-Canvas Toggle (#mobile-menu)-->
               <a class="offcanvas-toggle menu-toggle" href="#mobile-menu" data-toggle="offcanvas"></a>
               <!-- Site Logo-->
-              <a class="site-logo" href="../../index.php"><img src="../../assets/img/logo/logo.png" alt="AA Mobile Accessories Columbia South Carolina"></a>
+              <a class="site-logo" href="../../index.php"><img src="../../assets/img/logo/logo.png" alt="AA Mobile Accessories South Carolina"></a>
             </div>
           </div>
 
